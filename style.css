@@ -25,3 +25,15 @@ video {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.logo {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  max-width: 350px;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
